@@ -280,7 +280,7 @@ We're going to create `<div>` tags to group our content together. What is the di
 
 #
 
-## **TODO 4 :** _Create Structure for our Content_
+## **TODO 4 :** Create Structure for our Content_
 
 - **4a.** **CODE:** Inside the `<main>` element you've already created, create two new nested `<div>` elements.
 
